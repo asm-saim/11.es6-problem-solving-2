@@ -1,3 +1,5 @@
+//Chaining filter -> map -> reduce
+
 /*
   Problem: Filtered Cart Total (Chaining filter -> map -> reduce)
   getExpensiveItemsTotal(cart, minPrice) — from the cart, keep only

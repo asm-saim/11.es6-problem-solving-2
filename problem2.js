@@ -1,3 +1,5 @@
+//find method:
+
 /*
   Problem 1: User Lookup by ID
   findUserById(users, id) — find and return the single user object
@@ -26,6 +28,9 @@ let users = [
 let id = 2;
 
 console.log(findUserById(users, id));
+
+
+//reduce method:
 
 /*
   Problem 2: Shopping Cart Total (reduce)

@@ -1,3 +1,5 @@
+//map method:
+
 /*
   Problem 1: Bulk Discount Applier
   applyDiscount(prices, rate) — apply a discount % to every price in the
@@ -21,6 +23,9 @@ let prices = [5000, 10000, 2500];
 let rate = 10;
 console.log(applyDiscount(prices, rate));
 
+
+
+//filter method:
 /*
   Problem 2: Passing Students Filter
   getPassingStudents(students, threshold) — return only the students
